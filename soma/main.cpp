@@ -1,6 +1,5 @@
 #include <iostream>
 #include "somando.h"
-#include "subraindo.h"
 using namespace std;
 
 int main()
