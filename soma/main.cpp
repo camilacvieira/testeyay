@@ -6,10 +6,9 @@ using namespace std;
 int main()
 {
     somando a;
-    subraindo b;
 
     cout << a.somandotudo(2,3) << endl;
-    cout << b.subtraindotudo(3,2) << endl;
+    cout << a.subtraindo(3,2) << endl;
     cout<< "teste teste teste"<<endl;
     return 0;
 }
