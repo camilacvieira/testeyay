@@ -9,6 +9,6 @@ int main()
     subraindo b;
 
     cout << a.somandotudo(2,3) << endl;
-    cout << b.subtraindotudo(3,2) << endl;
+
     return 0;
 }
