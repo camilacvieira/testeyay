@@ -8,6 +8,7 @@ class somando
         somando();
         virtual ~somando();
         int somandotudo(int a, int b);
+        int multiplicacao(int a, int b);
     protected:
 
     private:

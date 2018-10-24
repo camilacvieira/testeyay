@@ -13,3 +13,9 @@ somando::~somando()
 int somando::somandotudo(int a, int b){
     return a+b;
 }
+
+
+int somando::multiplicacao(int a, int b)
+{
+    return a*b;
+}
